@@ -15,6 +15,8 @@ This repository highlights the challenges of preprocessing structured data with 
     5) Class Imbalance: In classification tasks, imbalanced classes can lead to biased models that favor the majority class. Techniques like resampling, SMOTE, or adjusting class weights help mitigate this issue.
 
     6) Data Leakage: Features that contain information from the target variable can lead to overly optimistic model performance. Detecting and avoiding data leakage requires careful inspection of the dataset.
-
+    
+![DPRP](https://media.licdn.com/dms/image/D4D12AQEwY05UsO_G9w/article-cover_image-shrink_600_2000/0/1685260194736?e=2147483647&v=beta&t=L48cqSy37qYeK2XgN47YwNgtUECsmgRNPPu5VYZnG3Q
+)
 
 Preprocessing in structured data is an essential step in the data analysis and machine learning pipeline. It applies cleaning, transforming, and organizing raw data into a format suitable for analysis or model training. While structured data is commonly more systematic than unstructured data, it still presents challenges during preprocessing. 
